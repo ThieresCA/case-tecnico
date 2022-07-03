@@ -1,0 +1,21 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none !important;
+}
+
+a {
+  color: black !important;
+}
+.templateTitle {
+  font-size: 18px !important;
+  font-weight: bold;
+}
+
+.templateDescript {
+  font-size: 15px;
+}
+
+.card{
+    margin-left: 10px;
+    margin: 5px 0px 5px 5px;
+}
